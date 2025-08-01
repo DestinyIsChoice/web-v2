@@ -32,7 +32,7 @@ pnpm i && pnpm start # Replace pnpm with npm if your not going to use pnpm
 
 and visit [http://localhost:3000](http://localhost:3000) you should be good to go!
 
-If you are developing / modifying terbium you can just run `pnpm run dev`, **DO NOT** use the development server for Production use instead just run `pnpm start`. For any further backend configuration visit the `.env` file to configure the backend a bit.
+If you are developing/modifying terbium you can just run `pnpm run dev`, **DO NOT** use the development server for Production use instead just run `pnpm start`. For any further backend configuration visit the `.env` file to configure the backend a bit.
 
 > <span style="font-family: none; color: #ffd900;">⚠</span> <span style="color: #ffd900;">Warning</span><br>
 > If you are going to static host Terbium you will need to change the wisp server and you would need to follow those steps. Refer to this [document](./docs/static-hosting.md) for more information
